@@ -1,0 +1,92 @@
+.woocommerce .products .star-rating {
+  width: 75px;
+  float: left;
+  margin: 4px 0;
+}
+.woocommerce .star-rating {
+  width: 85px;
+  float: left;
+  margin: 4px 0;
+}
+.rate-it-cool-product-feedbacks hr {
+  margin: 5px 0;
+}
+.rate-it-cool-product-feedbacks .date {
+  float: right;
+}
+.rate-it-cool-product-feedbacks td.ratings {
+  width: 85px;
+}
+.rate-it-cool-product-feedbacks .helpful .positive, .rate-it-cool-product-feedbacks .helpful .negative {
+  cursor: pointer;
+  padding: 0px 5px;
+  text-decoration: underline;
+}
+.rate-it-cool-product-feedbacks .report {
+  cursor: pointer;
+  text-decoration: underline;
+}
+.rate-it-cool-star-text {
+  margin-left: 5px;
+}
+.rate-it-cool-feedback-form .star-rating {
+  cursor: pointer;
+}
+.rateit-cool-send-feedback {
+  margin-top: 10px;
+}
+.rate-it-cool-show-stars {
+  margin-left: 5px;
+  padding: 2px 5px;
+  cursor: pointer;
+  outline: #ccc 1px solid;
+}
+
+.rate-it-cool-stars-detail-table {
+  outline: solid 1px #ccc;
+  margin-top: 10px;
+  max-width: 200px;
+}
+
+#feedbackform table {
+  max-width: 200px;
+}
+
+.rate-it-cool-stars-detail-table td, .rate-it-cool-stars-detail-table th {
+  padding: 2px;
+}
+.rate-it-cool-stars-detail-table td.stars {
+  width: 90px;
+}
+
+.overview table.feedbackOverview {
+  float: left;
+  width: 200px;
+}
+table.rate-it-cool-detail-stars {
+  float: right;
+  width:200px;
+}
+.clearfix {
+  clear:both;
+}
+.feedbackOverview td, .rate-it-cool-detail-stars td {
+  padding: 2px;
+}
+.rate-it-cool-stars-detail-table th {
+  background-color: #ccc;
+  font-weight: bold;
+}
+.rate-it-cool-verified, .rate-it-cool-public, .rate-it-cool-mobile {
+  float: right;
+  font-weight: bold;
+}
+
+.star-rating.oneStars, .star-rating.twoStars, .star-rating.threeStars, .star-rating.fourStars, .star-rating.fiveStars {
+  width: 17px;
+  float:left;
+}
+.feedback-title input {
+  width: 100%;
+  margin: 0 0 10px 0;
+}
